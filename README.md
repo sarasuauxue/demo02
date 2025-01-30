@@ -1,3 +1,3 @@
 #Software engineering
 
-An exercise for practicing with GitHub and IntelliJ
+An exercise for practicing with GitHub and IntelliJ.
